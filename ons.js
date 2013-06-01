@@ -6,6 +6,11 @@
         this.night = 1;
     };
 
+    ONS.prototype.starter = function () {
+        // 搭讪开场白
+        window.prompt("So... What's your favorite programming language?");
+    };
+
     ONS.prototype.make = function () {
         // 做爱做的事
     };
