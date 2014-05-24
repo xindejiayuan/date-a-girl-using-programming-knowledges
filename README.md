@@ -7,4 +7,4 @@
 
 ### 多约程序炮，早变高富帅！欢迎大家提交pull request!
 
-[visit here ◕‿◕｡](https://github.com/aisk/date-a-girl-using-programming-knowledges.git)
+[visit here ◕‿◕｡](http://meizhi.im)
